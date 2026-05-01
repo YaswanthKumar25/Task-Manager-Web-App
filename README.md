@@ -33,7 +33,6 @@ This app helps users efficiently manage daily tasks with full CRUD functionality
 ---
 
 ## 📁 Project Structure  
-'''
 Task-Manager-Web-App/
 ├── public/
 ├── src/
@@ -45,7 +44,7 @@ Task-Manager-Web-App/
 │ └── index.css
 ├── index.html
 ├── package.json
-└── vite.config.js'''
+└── vite.config.js
 
 
 ---
