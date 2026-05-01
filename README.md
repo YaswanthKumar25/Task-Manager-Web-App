@@ -33,3 +33,26 @@ This app helps users efficiently manage daily tasks with full CRUD functionality
 ---
 
 ## 📁 Project Structure  
+
+Task-Manager-Web-App/
+├── public/
+├── src/
+│ ├── App.jsx
+│ ├── TodoInput.jsx
+│ ├── TodoItem.jsx
+│ ├── TodoList.jsx
+│ ├── main.jsx
+│ └── index.css
+├── index.html
+├── package.json
+└── vite.config.js
+
+
+---
+
+## ⚙️ Installation  
+
+```bash
+git clone https://github.com/YaswanthKumar25/Task-Manager-Web-App.git
+cd Task-Manager-Web-App
+npm install
