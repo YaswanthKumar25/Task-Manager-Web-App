@@ -1,100 +1,77 @@
-# Todo React App
+<h1 align="center">Hi, I'm Yaswanth 👋</h1>
+<h3 align="center">💻 Full Stack Developer | Python • Django • React • JavaScript</h3>
 
-A modern, responsive todo application built with React and Vite. This app allows users to create, manage, and organize their daily tasks efficiently.
+---
 
-## Features
+## 🚀 About Me  
+- 🔭 Currently building **Room Management App (Django)** & **Task Manager (React)**  
+- 🌱 Learning **Advanced React, Django, and Deployment (Vercel, Netlify, Render)**  
+- 💬 Ask me about **Python, Django, React, JavaScript, SQL**  
+- 🎯 Goal: Become a strong Full Stack Developer and work on scalable products  
+- ⚡ I practice coding daily and build real projects  
 
-- ? **Add Todos** - Create new tasks with a simple input interface
-- ?? **Edit Todos** - Update existing tasks
-- ? **Delete Todos** - Remove completed or unwanted tasks
-- ? **Mark Complete** - Check off completed tasks
-- ?? **Responsive Design** - Works seamlessly on desktop and mobile devices
-- ? **Fast Performance** - Built with Vite for optimized build times
+---
 
-## Tech Stack
+## 🛠️ Tech Stack  
 
-- **React** - UI library for building interactive components
-- **Vite** - Next generation frontend build tool
-- **CSS** - Styling for responsive design
-- **JavaScript (ES6+)** - Modern JavaScript for functionality
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-## Project Structure
+### Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-`
-Todo-react/
-+-- public/           # Static assets
-�   +-- favicon.svg
-�   +-- icons.svg
-+-- src/
-�   +-- App.jsx       # Main application component
-�   +-- App.css       # Application styles
-�   +-- TodoInput.jsx # Input component for adding todos
-�   +-- TodoItem.jsx  # Individual todo item component
-�   +-- TodoList.jsx  # List container component
-�   +-- main.jsx      # Application entry point
-�   +-- index.css     # Global styles
-+-- index.html        # HTML template
-+-- package.json      # Project dependencies
-+-- vite.config.js    # Vite configuration
-+-- eslint.config.js  # ESLint configuration
-`
+### Backend  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## Installation
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-1. Clone the repository:
-\\\ash
-git clone https://github.com/YaswanthKumar25/Task-Manager-Web-App.git
-cd Todo_App
-\\\
+---
 
-2. Install dependencies:
-\\\ash
-npm install
-\\\
+## 📌 Featured Projects  
 
-## Running the Application
+### 🔹 Task Manager Web App (React)  
+A full-featured task management application with CRUD operations, filtering, and persistent storage.  
+👉 GitHub: https://github.com/YaswanthKumar25/Task-Manager-Web-App  
 
-### Development Mode
-\\\ash
-npm run dev
-\\\
-The application will be available at \http://localhost:5173\
+---
 
-### Build for Production
-\\\ash
-npm run build
-\\\
+### 🔹 Room Management App (Django)  
+A collaborative system for roommates to manage rooms, services, and expenses.  
+👉 GitHub: https://github.com/YaswanthKumar25/Room-Management  
 
-### Preview Production Build
-\\\ash
-npm run preview
-\\\
+---
 
-## Usage
+### 🔹 Portfolio Website (React)  
+Personal portfolio showcasing projects and skills.  
+👉 Live: https://yaswanthkumar-portfolio.netlify.app/  
 
-1. **Adding a Todo**: Type your task in the input field and press Enter or click the add button
-2. **Marking Complete**: Click the checkbox next to a task to mark it as complete
-3. **Deleting a Todo**: Click the delete button to remove a task from your list
+---
 
-## Components
+## 📊 GitHub Stats  
 
-- **App.jsx** - Main component that manages the todo state and logic
-- **TodoInput.jsx** - Handles user input for creating new todos
-- **TodoItem.jsx** - Displays individual todo items with action buttons
-- **TodoList.jsx** - Container component for rendering the list of todos
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YaswanthKumar25&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YaswanthKumar25&theme=tokyonight" />
+</p>
 
-## Contributing
+---
 
-Feel free to fork this project and submit pull requests for any improvements.
+## 🤝 Connect With Me  
 
-## License
+<a href="https://www.linkedin.com/in/yaswanth-kumar-d-3a9383266" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-This project is open source and available under the MIT License.
+---
 
-## Author
-
-Created by YaswanthKumar25
-
-## Support
-
-For issues or suggestions, please create an issue in the GitHub repository.
+<h3 align="center">⭐ Thanks for visiting my GitHub profile! ⭐</h3>
